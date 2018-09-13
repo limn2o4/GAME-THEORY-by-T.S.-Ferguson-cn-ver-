@@ -16,4 +16,8 @@ translater: a student in some university
 这本书似乎是以免费形式在网上传播的，所以不受版权限制.
 
 
+# 附加说明：
+翻译能力有限，希望各位dalao不吝赐教
+
+
 
