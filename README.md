@@ -18,6 +18,5 @@ translater: a student in some university
 
 # 附加说明：
 翻译能力有限，希望各位dalao不吝赐教
-
-
+目前没有开始校对，如果碰到前后名词不一致的，以后会更改。
 
